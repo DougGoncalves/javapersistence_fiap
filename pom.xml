@@ -45,7 +45,7 @@
 		<dependency>
 			<groupId>javax.validation</groupId>
 			<artifactId>validation-api</artifactId>
-	</dependency>
+		</dependency>
 	
 	</dependencies>
 
