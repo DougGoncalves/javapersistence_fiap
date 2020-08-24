@@ -1,7 +1,7 @@
 <h1 align="center">E-commerce - Java Persistence</h1>
 
  <p align="center">
-   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
 
  <p align="center">
